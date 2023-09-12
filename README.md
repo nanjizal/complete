@@ -24,4 +24,6 @@ pixelImage is an older version it maybe more complete in some aspects.
 
 [xGLfonts](http://github.com/nanjizal/xGLfonts) this is partial port of a webgl engine to help with rendering sdf fonts, it is a project keen to do more work on soon. TODO.
 
+[pallette](http://github.com/nanjizal/pallette) recently commited OKLCH implementation, need to update project pages and check if the implementation compiles and works as expected.
+
 TODO: go through my repo and add detail of other projects, but this is a start atleast.
